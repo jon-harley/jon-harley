@@ -12,12 +12,11 @@
 
 ###
 
-<p align="left">Backend Software Engineer designing high-availability, cloud-native
-        banking systems serving millions of users.<br></p>
+<p align="left">My name is Jonathan and I'm a software developer, from Brasil.<br></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Techs</h3>
 
 ###
 
@@ -52,5 +51,3 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
-
-###
